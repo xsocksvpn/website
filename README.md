@@ -1,2 +1,2 @@
-# website
-website for xsocks
+# web
+xsocksvpn's web
