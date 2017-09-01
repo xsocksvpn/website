@@ -1,10 +1,10 @@
 {
   "app": {
     "link": "http://xsvpn.com",
-    "ver": "2.0.9",
+    "ver": "2.1.0",
     "ver_plugin": "0",
     "ver_desc": "Newest version you should upgrade",
-    "ver_code": "209",
+    "ver_code": "210",
     "warning": "ver 为版本名称，ver_code为版本号，程序中用到的是ver与app自身的versionName相互匹配检测"
   }
 }
