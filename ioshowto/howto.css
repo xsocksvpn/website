@@ -1,0 +1,36 @@
+
+.main {
+			background: url(../img/bg_xsocks.png);
+			display: block;
+			width: 100%;
+		}
+
+.top_tab_bar {
+	display: flex;
+	justify-content: space-between;
+	height: 80px;}
+	.top_tab_bar * {
+		display: inline-block;
+		vertical-align: middle;
+	}
+	.top_tab_bar a {
+		font-family: "SourceHanSansSC-Normal", "Microsoft YaHei";
+	    color: white;
+	    line-height: 80px;
+	    padding: 1em;
+	    margin-left: 10em;
+	    position: relative;
+	    text-align: center; }
+.textmain {
+	text-align: center;
+	}
+	.textmain h2 {
+		color: white;
+	}
+
+.footer {
+	text-align: center;
+}
+.footer p {
+	color: white;
+}
